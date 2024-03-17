@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Usage
 
 1. Upload the models to Google Colab.
-2. Run the model of your choice.
+2. Run the model.
 
 ## Contributing
 
