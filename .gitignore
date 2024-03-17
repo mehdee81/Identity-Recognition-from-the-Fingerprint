@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Directories
+Finger Print ML-Dataset/
+/Finger Print ML-Dataset/
+Finger Print ML-Zip Dataset/
+/Finger Print ML-Zip Dataset/
+
 # C extensions
 *.so
 
